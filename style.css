@@ -24,16 +24,16 @@ p {
 
 
 section {
-    background: grey;
     border: 1px solid black;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     position: relative;
     overflow: auto;
+    background: grey;
 
 }
 
 #Chicken {
-    background: indianred;
+    border: 1px solid black;
     width: 30%;
     margin-left: 70%;
     padding: 5px;
@@ -41,12 +41,12 @@ section {
     font-weight: bold;
     margin-bottom: 0;
     margin-top: 0;
-
+    background: #cd5c5c;
 }
 
 
 #Beef {
-    background: #FF1439;
+    border: 1px solid black;
     width: 30%;
     margin-left: 70%;
     padding: 5px;
@@ -55,11 +55,12 @@ section {
     font-weight: bold;
     margin-bottom: 0;
     margin-top: 0;
+    background: #FF1439;
 }
 
 
 #Sushi {
-    background: khaki;
+    border: 1px solid black;
     width: 30%;
     margin-left: 70%;
     padding: 5px;
@@ -67,6 +68,7 @@ section {
     font-weight: bold;
     margin-bottom: 0;
     margin-top: 0;
+    background: #f0e68c;
 }
 
 .row {
