@@ -33,7 +33,8 @@ section {
 }
 
 #Chicken {
-    border: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     width: 30%;
     margin-left: 70%;
     padding: 5px;
@@ -47,7 +48,8 @@ section {
 
 
 #Beef {
-    border: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     width: 30%;
     margin-left: 70%;
     padding: 5px;
@@ -62,8 +64,9 @@ section {
 
 
 #Sushi {
-    border: 1px solid black;
-    width: 30px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    width: 30%;
     margin-left: 70%;
     padding: 5px;
     font-size: 125%;
